@@ -3,12 +3,12 @@
 一個使用 Node.js + Express 打造的電影清單網站，提供使用者查看電影資訊內容，依照電影名稱搜尋自己想查詢的電影。
 
 ## 專案畫面
-https://github.com/tangcamy/MovieList-V2-FrontEnd
-![image](https://github.com/tangcamy/MovieList-V2-FrontEnd/public/img/homePage.png)
 
-![image](https://github.com/tangcamy/MovieList-V2-FrontEnd/img/MovieInformation.png)
+![image](https://github.com/tangcamy/MovieList-V2-FrontEnd/blob/main/public/img/MovieInformation.png)
 
-![image](https://github.com/tangcamy/MovieList-V2-FrontEnd/img/MovieSearch.png)
+![image](https://github.com/tangcamy/MovieList-V2-FrontEnd/blob/main/public/img/MovieInformation.png)
+
+![image](https://github.com/tangcamy/MovieList-V2-FrontEnd/blob/main/public/img/MovieSearch.png)
 
 
 ## Features - 產品功能
