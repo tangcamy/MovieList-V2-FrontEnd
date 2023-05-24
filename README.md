@@ -4,7 +4,7 @@
 
 ## 專案畫面
 
-![image](https://github.com/tangcamy/MovieList-V2-FrontEnd/blob/main/public/img/MovieInformation.png)
+![image](https://github.com/tangcamy/MovieList-V2-FrontEnd/blob/main/public/img/homePage.png)
 
 ![image](https://github.com/tangcamy/MovieList-V2-FrontEnd/blob/main/public/img/MovieInformation.png)
 
